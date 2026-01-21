@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**edisadk-pm/edisadk-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics student at HTBLA Kaindorf. I love building software that helps people — free for now, and in the future as a business.
 
-Here are some ideas to get you started:
+## About me
+- 16-year-old student focused on software development and entrepreneurship
+- Goal: create useful software for people and start my own business
+- Ongoing training in networking (Cisco CCNA standards)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming: C, HTML, CSS, JavaScript (JS), TypeScript (TS)
+- Currently learning: Java, SQL
+- Tools and IDEs: Visual Studio Code, IntelliJ IDEA, WebStorm
+- OS and platforms: Windows 10/11, macOS, Ubuntu, Linux/Windows Server
+- Software and tooling: Word, Excel, PowerPoint, Access, Apache HTTP Server, SQL Developer, Figma, Android Studio, PowerShell, and more
+- Certification: ICDL (International Certification of Digital Literacy)
+
+## Projects
+- Coming soon — I’m working on new projects you’ll find here.
+
+## Contact
+- Reach out via GitHub Issues or Discussions.
