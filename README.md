@@ -1,11 +1,12 @@
 # Hi there 👋
 
-Informatics student at HTBLA Kaindorf. I love building software that helps people — free for now, and in the future as a business.
+Informatics student at HTBLA Kaindorf.
 
 ## About me
 - 16-year-old student focused on software development and entrepreneurship
 - Goal: create useful software for people and start my own business
 - Ongoing training in networking (Cisco CCNA standards)
+- Reach out via GitHub Issues or Discussions.
 
 ## Skills
 - Programming: C, HTML, CSS, JavaScript (JS), TypeScript (TS)
@@ -17,6 +18,3 @@ Informatics student at HTBLA Kaindorf. I love building software that helps peopl
 
 ## Projects
 - Coming soon — I’m working on new projects you’ll find here.
-
-## Contact
-- Reach out via GitHub Issues or Discussions.
